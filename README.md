@@ -1,9 +1,8 @@
-# Computer Vision Final Project
+# Brain tumor segmentation and tumor type classification using KMeans with Deep Autoencoder and Softmax Regression
+
 by Sicen (Susan) Liu, Tuxun (Nick) Lu, Wenxuan Lu, Xuerui (Jerry) Qian
 
-> Brain tumor segmentation and tumor type classification using KMeans with Deep Autoencoder and Softmax Regression
-
-This repo follows the workflow of the paper "Brain tumor classification using a hybrid deep autoencoder with Bayesian fuzzy clustering-based segmentation approach" by P.M. Siva Raja and Antony Viswasa rani. Instead of Bayesian fuzzy clustering, we adapted KMeans clustering here.
+> This repo follows the workflow of the paper "Brain tumor classification using a hybrid deep autoencoder with Bayesian fuzzy clustering-based segmentation approach" by P.M. Siva Raja and Antony Viswasa rani. Instead of Bayesian fuzzy clustering, we adapted KMeans clustering here.
 
 ## Project Description
 The project tackles the problem of brain tumor segmentation and tumor type classification. Brain tumors are a type of neurodegenerative diseases that are represented by abnormal glutamate signaling and release in the brain. Early detection and treatment of brain tumors are important for the well-being of patients. Magnetic Resonance Imaging (MRI) is a non-invasive neuro-imaging technique that can efficiently capture the structural organization of brain soft tissues. To ease the diagnosis with MRI scans, especially to determine if a brain tumor is low-grade tumors LGG (grades I and II; LGG being a Low-Grade Glioma), which are generally benign, or high-grade tumors HGG (grades III and IV), which are highly malignant, we developed a pipeline that could recognize tumor regions and classify tumor types.
