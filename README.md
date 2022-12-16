@@ -88,3 +88,10 @@ For students who would be interested in taking this class or future instructors:
 - Don’t be restrained by a state-of-art implementation, always feel free to experiment with any idea that you have
 - Understand the mechanism behind popular packages (especially in image classification) as then one can tailor by customizing (custom writing) adjustments to a specific dataset and methodology
 - Don’t be overwhelmed by the plentitude of possible ways to process image, as each has their own advantages and disadvantages; choose the one that is most suitable, which isn’t always the most popular method
+
+### Reference
+[1] Lee, G., Gommers, R., Waselewski, F., Wohlfahrt, K., & O'Leary, A. (2019). PyWavelets: A Python package for wavelet analysis. Journal of Open Source Software, 4(36), 1237.
+
+[2] Andreux, M., Angles, T., Exarchakis, G., Leonarduzzi, R., Rochette, G., Thiry, L., ... & Eickenberg, M. (2020). Kymatio: Scattering Transforms in Python. J. Mach. Learn. Res., 21(60), 1-6.
+
+[3] Raja, P. S. (2020). Brain tumor classification using a hybrid deep autoencoder with Bayesian fuzzy clustering-based segmentation approach. Biocybernetics and Biomedical Engineering, 40(1), 440-453.
