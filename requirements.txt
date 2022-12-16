@@ -1,0 +1,13 @@
+numpy
+opencv-python
+MedPy
+matplotlib
+scikit-image
+scipy
+torch
+scikit-learn
+seaborn
+pandas
+multiprocess
+joblib
+pytictoc
